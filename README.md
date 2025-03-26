@@ -15,7 +15,7 @@ I specialize in **data analysis, business intelligence, and visualization** to d
 ---
 
 ## 📊 Featured Projects  
-🔹 **[Employee Attrition Analysis](https://github.com/yourusername/employee-attrition-analysis)** – MySQL and Power BI-based analysis of workforce attrition trends.  
+🔹 **[Employee Attrition Analysis](https://github.com/urmilayadav1/employee-attrition-analysis)** – MySQL and Power BI-based analysis of workforce attrition trends.  
 
 ---
 
