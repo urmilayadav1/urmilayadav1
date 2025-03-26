@@ -27,6 +27,6 @@ I specialize in **data analysis, business intelligence, and visualization** to d
 ---
 
 ## 📬 Let's Connect  
-📌 [LinkedIn](https://https://www.linkedin.com/in/urmila-yadav-4475771bb/) | 📧 [Email Me](mailto:urmila1412.yadav@gmail.com)  
+📌 [LinkedIn](https://www.linkedin.com/in/urmila-yadav-4475771bb/) | 📧 [Email Me](mailto:urmila1412.yadav@gmail.com)  
 
 
