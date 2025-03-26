@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello, I'm Urmila Yadav  
 
-<!--
-**urmilayadav1/urmilayadav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Business Analyst | Data Enthusiast | Power BI Developer**  
 
-Here are some ideas to get you started:
+I specialize in **data analysis, business intelligence, and visualization** to drive insights and decision-making. Passionate about **transforming raw data into actionable insights** using MySQL, Power BI, and analytics tools.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Skills & Expertise  
+✔️ **Data Analysis** – SQL, Excel, Python  
+✔️ **Business Intelligence** – Power BI, Tableau  
+✔️ **Database Management** – MySQL 
+✔️ **Data Visualization** – Interactive dashboards and reports  
+
+---
+
+## 📊 Featured Projects  
+🔹 **[Employee Attrition Analysis](https://github.com/yourusername/employee-attrition-analysis)** – MySQL and Power BI-based analysis of workforce attrition trends.  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced **Power BI techniques**  
+- **Machine Learning for Business Analytics**  
+- **Big Data & Cloud Technologies**  
+
+---
+
+## 📬 Let's Connect  
+📌 [LinkedIn](https://https://www.linkedin.com/in/urmila-yadav-4475771bb/) | 📧 [Email Me](mailto:urmila1412.yadav@gmail.com)  
+
+
