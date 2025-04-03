@@ -16,6 +16,7 @@ I specialize in **data analysis, business intelligence, and visualization** to d
 
 ## 📊 Featured Projects  
 🔹 **[Employee Attrition Analysis](https://github.com/urmilayadav1/employee-attrition-analysis)** – MySQL and Power BI-based analysis of workforce attrition trends.  
+🔹 **[Gold Insight Analysis](https://github.com/urmilayadav1/Gold-Insight-Analysis))** – Analysis of Gold Market Exploration Using MS Excel and Tableau.
 
 ---
 
